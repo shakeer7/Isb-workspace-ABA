@@ -5,6 +5,8 @@ provide the final decision or prediction. Each decision node in a decision tree 
 branches, regardless of whether the outcome is continuous or categorical. Decision trees are popular for
 their easy visualization and interpretability, which help stakeholders understand the decision-making
 process.
+
+
 Nodes:
 • Root Node: The initial node of a decision tree where the first split occurs. It is based on the most
 important input variable.
@@ -38,11 +40,22 @@ between predictions and actual outcomes.
 generalizes to unseen data. It is used to set the CP parameter to prune the decision tree to avoid
 overfitting.
 ISB-ABA
+
+
+
+
+
 Overfitting and Underfitting:
 • Overfitting: A modeling issue where the model becomes too complex and captures noise instead of
 the true pattern in the data leads to poor performance on new, unseen data.
 • Underfitting: Occurs when a model is too simple to learn the underlying patterns in the data, often
 due to insufficient features or overly simplistic model structure.
+
+
+
+
+
+
 Depth of the Tree, CP, and Pruning:
 • Depth of the Tree: The number of levels in a decision tree. A deeper tree can capture more
 complexity and detail in the data but also risks overfitting by being too specific to the training data.
