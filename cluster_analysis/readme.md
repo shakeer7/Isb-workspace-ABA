@@ -12,6 +12,9 @@ Actionable Insights: Provide data-driven recommendations for the marketing team 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 Based on the cluster analysis of your marketing campaign dataset, here is a summary of the three distinct customer segments identified:
 
+<img width="863" height="470" alt="download" src="https://github.com/user-attachments/assets/31acc7c2-cd77-4f52-90d9-fc1d80016400" />
+
+
 <img width="844" height="624" alt="download" src="https://github.com/user-attachments/assets/24963f41-feba-49c9-bb96-9107c2d5811b" />
 
 
